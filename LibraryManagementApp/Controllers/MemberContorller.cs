@@ -9,10 +9,10 @@ namespace LibraryManagementApp.Controllers
    
     [ApiController]
     [Route("api/[Controller]")]
-    public class MemeberController : ControllerBase
+    public class MemberController : ControllerBase
     {
         private IMemberService _memberService;
-        public MemeberController(IMemberService memberService)
+        public MemberController(IMemberService memberService)
         {
             _memberService = memberService;
         }
