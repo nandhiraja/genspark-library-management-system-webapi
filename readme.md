@@ -1,4 +1,4 @@
-# Library Mangement system  - WebAPIs
+# Library Management system  - WebAPIs
 
 
 ## Screenshots
